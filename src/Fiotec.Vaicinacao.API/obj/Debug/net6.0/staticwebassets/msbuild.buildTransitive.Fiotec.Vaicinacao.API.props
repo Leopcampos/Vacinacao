@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Fiotec.Vaicinacao.API.props" />
+</Project>

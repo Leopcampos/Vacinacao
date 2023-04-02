@@ -1,0 +1,133 @@
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\appsettings.json
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Fiotec.Vaicinacao.API.exe
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Fiotec.Vaicinacao.API.deps.json
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Fiotec.Vaicinacao.API.runtimeconfig.json
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Fiotec.Vaicinacao.API.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Fiotec.Vaicinacao.API.pdb
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.csproj.AssemblyReference.cache
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.AssemblyInfoInputs.cache
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.AssemblyInfo.cs
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.csproj.CoreCompileInputs.cache
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\staticwebassets\msbuild.Fiotec.Vaicinacao.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Fiotec.Vaicinacao.API.props
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Fiotec.Vaicinacao.API.props
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Fiotec.Vaicinacao.API.props
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\scopedcss\bundle\Fiotec.Vaicinacao.API.styles.css
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.csproj.CopyComplete
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\refint\Fiotec.Vaicinacao.API.dll
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.pdb
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.genruntimeconfig.cache
+C:\Projetos\Fiotec\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\ref\Fiotec.Vaicinacao.API.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.csproj.AssemblyReference.cache
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.AssemblyInfoInputs.cache
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.AssemblyInfo.cs
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.csproj.CoreCompileInputs.cache
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\refint\Fiotec.Vaicinacao.API.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.pdb
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\appsettings.json
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Fiotec.Vaicinacao.API.exe
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Fiotec.Vaicinacao.API.deps.json
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Fiotec.Vaicinacao.API.runtimeconfig.json
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Fiotec.Vaicinacao.API.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Fiotec.Vaicinacao.API.pdb
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\staticwebassets\msbuild.Fiotec.Vaicinacao.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Fiotec.Vaicinacao.API.props
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Fiotec.Vaicinacao.API.props
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Fiotec.Vaicinacao.API.props
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\scopedcss\bundle\Fiotec.Vaicinacao.API.styles.css
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.csproj.CopyComplete
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\Fiotec.Vaicinacao.API.genruntimeconfig.cache
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\obj\Debug\net6.0\ref\Fiotec.Vaicinacao.API.dll
+C:\Leo\Projetos\Fiotec\Analista de Sistemas II\src\Fiotec.Vaicinacao.API\bin\Debug\net6.0\Newtonsoft.Json.dll
